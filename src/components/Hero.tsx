@@ -35,7 +35,7 @@ const Hero = () => {
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12 px-4">
-            <a href="https://example.com/legal-advisory" target="_blank" rel="noopener noreferrer">
+            <a href="https://legalland.vercel.app" target="_blank" rel="noopener noreferrer">
               <Button className="w-full sm:w-auto bg-gradient-to-r from-blue-600 to-blue-700 hover:from-blue-700 hover:to-blue-800 text-white px-6 sm:px-8 py-4 sm:py-6 text-base sm:text-lg font-semibold rounded-lg shadow-lg transform hover:scale-105 transition-all duration-200 flex items-center justify-center space-x-2">
                 <Bot className="h-5 w-5 sm:h-6 sm:w-6" />
                 <span>Start Legal Advisory</span>
@@ -43,7 +43,7 @@ const Hero = () => {
               </Button>
             </a>
 
-            <a href="https://example.com/verify-title" target="_blank" rel="noopener noreferrer">
+            <a href="https://huggingface.co/spaces/danmagino/Title-verifier" target="_blank" rel="noopener noreferrer">
               <Button variant="outline" className="w-full sm:w-auto border-2 border-blue-600 text-blue-600 hover:bg-blue-600 hover:text-white px-6 sm:px-8 py-4 sm:py-6 text-base sm:text-lg font-semibold rounded-lg shadow-lg transform hover:scale-105 transition-all duration-200 flex items-center justify-center space-x-2">
                 <Eye className="h-5 w-5 sm:h-6 sm:w-6" />
                 <span>Verify Land Title</span>
