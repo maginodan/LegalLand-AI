@@ -43,13 +43,13 @@ const Hero = () => {
               </Button>
             </a>
 
-{/*             <a href="https://huggingface.co/spaces/danmagino/Title-verifier" target="_blank" rel="noopener noreferrer">
+            <a href="https://huggingface.co/spaces/danmagino/Title-verifier" target="_blank" rel="noopener noreferrer">
               <Button variant="outline" className="w-full sm:w-auto border-2 border-blue-600 text-blue-600 hover:bg-blue-600 hover:text-white px-6 sm:px-8 py-4 sm:py-6 text-base sm:text-lg font-semibold rounded-lg shadow-lg transform hover:scale-105 transition-all duration-200 flex items-center justify-center space-x-2">
                 <Eye className="h-5 w-5 sm:h-6 sm:w-6" />
                 <span>Verify Land Title</span>
                 <ArrowRight className="h-4 w-4 sm:h-5 sm:w-5" />
               </Button>
-            </a> */}
+            </a>
           </div>
 
           <div className="bg-white/80 backdrop-blur-sm rounded-xl shadow-xl border border-white/20 p-6 sm:p-8 max-w-5xl mx-auto animate-slide-in-right">
